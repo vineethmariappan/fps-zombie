@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LevelPart
+  - HealthSphear
+  - KillSphear
+  - RandomSphear
+  - SecondCamera
+  - BulletSpawn
+  - Enemy
+  - Projectile
+  - AmmoSphear
+  - Weapon
+  - BulletSphear
+  - RocketSphear
   layers:
   - Default
   - TransparentFX
@@ -11,7 +23,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Projectile
   - 
   - 
   - 
